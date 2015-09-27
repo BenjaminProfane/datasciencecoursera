@@ -1,6 +1,11 @@
 ## Heading 
 ### Heading 2
 
-*Item 1
-*Item 2
-*Item 3
+- item 1 
+- item 2 
+- item 3
+
+*italics*
+**bold**
+***bold and italics***
+
